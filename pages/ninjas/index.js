@@ -1,4 +1,5 @@
 import styles from "../../styles/Ninjas.module.css";
+import Head from "next/head";
 
 const Ninjas = () => {
   return (
